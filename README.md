@@ -124,8 +124,8 @@ Special thanks to **Codec Technologies** for the opportunity to work on this pro
 
 ### 📬 Contact
 For collaboration or queries:  
-📧 **jayvishwakarma@example.com** *(replace with your actual email)*  
-🔗 [LinkedIn Profile](https://linkedin.com/in/) *(add your profile link)*
+📧 **jayvishwakarma0308@gmail.com**  
+🔗 [LinkedIn Profile](www.linkedin.com/in/jay-vishwakarma03)
 
 ---
 
