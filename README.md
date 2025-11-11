@@ -24,10 +24,7 @@ To design and implement an end-to-end machine learning pipeline that:
 - **XGBoost** *(optional)*
 - **ReportLab** *(for PDF generation)*
 - **Google Colab / Jupyter Notebook**
-
----
-
-
+  
 ---
 
 ## 🧠 Steps in the Project
